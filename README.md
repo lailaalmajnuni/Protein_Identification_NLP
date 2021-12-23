@@ -9,6 +9,7 @@ The dataset is a collection of previously discovered protein sequence and each i
 - classification: the classes of proteins (string).
 - residueCount: the number of amino acid residue in the sequence (int).
 - sequence: a sequnce of letters corresponding to amino acids - there are 20 distinct AAs making up the sequences with various combinations and length(string).
+- data size is (346325, 4)
 ### Tools: 
 - Programs: Python, Jupyter Notebook, KNIME or orange 3.
 - Libraries: pandas, keras.preprocessing.text, numpy, sklearn, keras.models, nltk.
